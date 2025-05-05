@@ -39,7 +39,8 @@ This project involves the development of a self-driving car model capable of lin
 - Path adjustment algorithm for obstacle navigation
 
 ## Demo
-[Demo.mp4]
+[📽️ Xem video demo](./Demo.mp4)
+
 
 ## Team
 Project developed as part of a research initiative at Ho Chi Minh City University of Technology and Education.
