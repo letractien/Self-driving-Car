@@ -47,6 +47,3 @@ Project developed as part of a research initiative at Ho Chi Minh City Universit
 
 ## Acknowledgements
 Special thanks to Mr. Nguyen Xuan Sam for providing knowledge and support throughout the project development process. We also extend our gratitude to the authors of the research papers and studies we referenced.
-
-## Contact
-For more information, please contact [Your Contact Information].
